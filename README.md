@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russo270
 - 👀 I like to do theatrical lighting
-- Comment on my profile with your favorite Linux DMX software
+- Message me at owenrussell@duck.com with your favorite Linux DMX software
 
 <!---
 russo270/russo270 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
